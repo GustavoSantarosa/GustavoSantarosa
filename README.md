@@ -93,6 +93,7 @@ Programador Senior em PHP e faço algumas lives educacionais e de jogos tambem!
   - ⭐ FrameWorks (Laravel, Zend, Laminas, CodeIgniter, Node, Symfony, etc).
   - ⭐ Erp (Financeiro, Estoque, Gestao de Pessoas, Faturamento, CRM, Contabil, Fiscal, etc).
   - ⭐ Data Base (Postgresql, Mysql, MariaDB, SqlServer, MongoDb, Redis, Aurora, etc).
+  - ⭐ Libs (NfePhp, Aws, Sigep, swagger, etc).
   - ⭐ Micro Services.
   - ⭐ Clean Code.
   - ⭐ TDD, Unit Test e Feature Test.
