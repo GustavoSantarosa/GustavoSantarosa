@@ -62,7 +62,7 @@ Programador Senior em PHP e faço algumas lives educacionais e de jogos tambem!
 </p>
 
 <details>
-  <summary>📃 Resumo</summary>
+  <summary>📃 Curriculo</summary>
 
   ## Educação
 
