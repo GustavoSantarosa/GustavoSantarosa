@@ -58,7 +58,10 @@ Programador Senior em PHP e faço algumas lives educacionais e de jogos tambem!
   📫 How to reach me: <a href='mailto:gustavo-computacao@hotmail.com'>gustavo-computacao@hotmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/GustavoSantarosa/GustavoSantarosa"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/years/GustavoSantarosa"></a>
+  <a href="#"><img src="https://badges.pufler.dev/repos/GustavoSantarosa"></a>
+  <a href="#"><img src="https://badges.pufler.dev/commits/monthly/GustavoSantarosa"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/GustavoSantarosa/GustavoSantarosa"></a>
 </p>
 
 <details>
@@ -73,6 +76,11 @@ Programador Senior em PHP e faço algumas lives educacionais e de jogos tambem!
   📍 **Senac Americana** - Americana/SP, Brasil
 
   ## Experiência
+
+  - 👨‍💻 **Desenvolvedor Senior FullStack PHP**\
+  📆 Junho/2008 - Atualmente\
+  📍 **Autonomo** - Americana/SP, Brasil
+
   - 👨‍💻 **Desenvolvedor Senior FullStack PHP**\
   📆 Junho/2020 - Atualmente\
   📍 **Qyon** - Americana/SP, Brasil
@@ -88,7 +96,7 @@ Programador Senior em PHP e faço algumas lives educacionais e de jogos tambem!
   ## Conhecimentos
 
   - ⭐ Pacotes da Aws (cognito, SES, polly, s3, ec2, ecs, etc).
-  - ⭐ Git (overflow, codereview, releases, etc).
+  - ⭐ Git (overflow, codereview, versionamentos, releases, etc).
   - ⭐ Docker.
   - ⭐ FrameWorks (Laravel, Zend, Laminas, CodeIgniter, Node, Symfony, etc).
   - ⭐ Erp (Financeiro, Estoque, Gestao de Pessoas, Faturamento, CRM, Contabil, Fiscal, etc).
