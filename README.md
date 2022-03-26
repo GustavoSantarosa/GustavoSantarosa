@@ -40,7 +40,7 @@ Programador Senior em PHP e faço algumas lives educacionais e de jogos tambem!
 </div>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Você gostou dos meus projetos publicos? <a href='https://stars.github.com/nominate/'>Me nomeie para o Github Stars ⭐</a>
 </p>
 
 <!-- <div align="center" style="margin=1px">
@@ -50,12 +50,12 @@ Programador Senior em PHP e faço algumas lives educacionais e de jogos tambem!
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=tokyonight" />
 </div> -->
 
-<details align='center'>
+<!-- <details align='center'>
   <summary>⚡ My workspace specs</summary>
-</details>
+</details> -->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:gustavo-computacao@hotmail.com'>gustavo-computacao@hotmail.com</a>
+  📫 Como me achar: <a href='mailto:gustavo-computacao@hotmail.com'>gustavo-computacao@hotmail.com</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/years/GustavoSantarosa"></a>
@@ -91,22 +91,24 @@ Programador Senior em PHP e faço algumas lives educacionais e de jogos tambem!
 
   - 👨‍💻 **Analista de sistemas ERP**\
   📆 Março/2015 - Março/2020\
-  📍 **Microwork Softwares** - Americana/SP, 
+  📍 **Microwork Softwares** - Americana/SP, Brasil 
   
   ## Conhecimentos
 
   - ⭐ Pacotes da Aws (cognito, SES, polly, s3, ec2, ecs, etc).
-  - ⭐ Git (overflow, codereview, versionamentos, releases, etc).
+  - ⭐ Git (workflow, codereview, versionamentos, releases, etc).
   - ⭐ Docker.
   - ⭐ FrameWorks (Laravel, Zend, Laminas, CodeIgniter, Node, Symfony, etc).
   - ⭐ Erp (Financeiro, Estoque, Gestao de Pessoas, Faturamento, CRM, Contabil, Fiscal, etc).
   - ⭐ Data Base (Postgresql, Mysql, MariaDB, SqlServer, MongoDb, Redis, Aurora, etc).
+  - ⭐ DB Multitanancy.
   - ⭐ Libs (NfePhp, Aws, Sigep, swagger, etc).
   - ⭐ Micro Services.
   - ⭐ Clean Code.
   - ⭐ TDD, Unit Test e Feature Test.
   - ⭐ Boas Praticas de Desenvolvimento.
   - ⭐ Arquiteturas Cloud, Hexagonal.
+  - ⭐ Projetos do Tipo BigData.
   - ⭐ Rabbit MQ.
   - ⭐ Kafka.
 
